@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "b1",
+    "name": "푸른머리되새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/푸른머리되새.png",
+    "hobby_level": 1,
+    "location": "꽃밭",
+    "price": 60,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b2",
+    "name": "멋쟁이새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/멋쟁이새.png",
+    "hobby_level": 1,
+    "location": "도시 근교",
+    "price": 60,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b3",
+    "name": "꼬까울새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/꼬까울새.png",
+    "hobby_level": 1,
+    "location": "도심",
+    "price": 60,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b4",
+    "name": "분홍가슴비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/분홍가슴비둘기.png",
+    "hobby_level": 1,
+    "location": "도심",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b5",
+    "name": "큰홍학",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/큰홍학.png",
+    "hobby_level": 1,
+    "location": "물가",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b6",
+    "name": "청공작",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/청공작.png",
+    "hobby_level": 1,
+    "location": "새들의 복귀 사건",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b7",
+    "name": "청금강앵무",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/청금강앵무.png",
+    "hobby_level": 1,
+    "location": "새들의 복귀 사건",
+    "price": 60,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b8",
+    "name": "굴뚝새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/굴뚝새.png",
+    "hobby_level": 1,
+    "location": "숲",
+    "price": 60,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b9",
+    "name": "얼룩비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/얼룩비둘기.png",
+    "hobby_level": 1,
+    "location": "어촌",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b10",
+    "name": "노랑배박새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/노랑배박새.png",
+    "hobby_level": 1,
+    "location": "온천산",
+    "price": 60,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b11",
+    "name": "청둥오리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/청둥오리.png",
+    "hobby_level": 1,
+    "location": "호수",
+    "price": 100,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b12",
+    "name": "염주비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/염주비둘기.png",
+    "hobby_level": 1,
+    "location": "홈",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b63",
+    "name": "오목눈이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/오목눈이.png",
+    "hobby_level": 1,
+    "location": "블랑코 머리 위",
+    "price": 16,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b13",
+    "name": "홍머리오리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/홍머리오리.png",
+    "hobby_level": 2,
+    "location": "강",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b14",
+    "name": "분홍목녹색비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/분홍목녹색비둘기.png",
+    "hobby_level": 2,
+    "location": "꽃밭",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b15",
+    "name": "빨간머리떼까치",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/빨간머리떼까치.png",
+    "hobby_level": 2,
+    "location": "도시 근교",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b16",
+    "name": "웡가비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/웡가비둘기.png",
+    "hobby_level": 2,
+    "location": "숲",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b17",
+    "name": "동고비",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/동고비.png",
+    "hobby_level": 2,
+    "location": "어촌",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b18",
+    "name": "수염오목눈이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/수염오목눈이.png",
+    "hobby_level": 2,
+    "location": "온천산",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b19",
+    "name": "바다갈매기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/바다갈매기.png",
+    "hobby_level": 2,
+    "location": "해변",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b20",
+    "name": "호사북방오리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/호사북방오리.png",
+    "hobby_level": 3,
+    "location": "강",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b21",
+    "name": "오두앵갈매기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/오두앵갈매기.png",
+    "hobby_level": 3,
+    "location": "고래바다 해변",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b22",
+    "name": "황오리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/황오리.png",
+    "hobby_level": 3,
+    "location": "근교 호수",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b23",
+    "name": "유럽가마우지",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/유럽가마우지.png",
+    "hobby_level": 3,
+    "location": "바다",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b24",
+    "name": "홍금강앵무",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/홍금강앵무.png",
+    "hobby_level": 3,
+    "location": "새들의 복귀 사건",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b25",
+    "name": "검은턱오목눈이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/검은턱오목눈이.png",
+    "hobby_level": 3,
+    "location": "숲-점핑 플랫폼",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b26",
+    "name": "녹자작",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/녹자작.png",
+    "hobby_level": 3,
+    "location": "어촌-등대",
+    "price": 80,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b27",
+    "name": "유럽꾀꼬리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/유럽꾀꼬리.png",
+    "hobby_level": 3,
+    "location": "홈",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b28",
+    "name": "알락할미새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/알락할미새.png",
+    "hobby_level": 4,
+    "location": "꽃밭-보라빛 해변",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b29",
+    "name": "황금과일비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/황금과일비둘기.png",
+    "hobby_level": 4,
+    "location": "꽃밭-풍차꽃밭",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b30",
+    "name": "솔양진이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/솔양진이.png",
+    "hobby_level": 4,
+    "location": "숲-숲속 섬",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b31",
+    "name": "노란머리바우어새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/노란머리바우어새.png",
+    "hobby_level": 4,
+    "location": "숲-영혼의 참나무 숲",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b32",
+    "name": "흰비오리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/흰비오리.png",
+    "hobby_level": 4,
+    "location": "숲속 호수",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b33",
+    "name": "회색머리붉은참새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/회색머리붉은참새.png",
+    "hobby_level": 4,
+    "location": "어촌-어촌 광장",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b34",
+    "name": "은계",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/은계.png",
+    "hobby_level": 4,
+    "location": "온천산-유적",
+    "price": 140,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b35",
+    "name": "검정제비갈매기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/검정제비갈매기.png",
+    "hobby_level": 5,
+    "location": "구해 해변",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b36",
+    "name": "초록금강앵무",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/초록금강앵무.png",
+    "hobby_level": 5,
+    "location": "새들의 복귀 사건",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b37",
+    "name": "작은홍학",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/작은홍학.png",
+    "hobby_level": 5,
+    "location": "숲속 호숫가",
+    "price": 220,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b38",
+    "name": "노랑배딱새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/노랑배딱새.png",
+    "hobby_level": 5,
+    "location": "어촌-부두",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b39",
+    "name": "유럽벌잡이새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/유럽벌잡이새.png",
+    "hobby_level": 5,
+    "location": "온천산 호숫가",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b40",
+    "name": "올리브비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/올리브비둘기.png",
+    "hobby_level": 5,
+    "location": "온천산-온천",
+    "price": 220,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b41",
+    "name": "붉은뺨가마우지",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/붉은뺨가마우지.png",
+    "hobby_level": 6,
+    "location": "구해 고래바다",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b42",
+    "name": "황금가슴비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/황금가슴비둘기.png",
+    "hobby_level": 6,
+    "location": "어촌-어촌 동쪽 부두",
+    "price": 220,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b43",
+    "name": "칡부엉이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/칡부엉이.png",
+    "hobby_level": 6,
+    "location": "온천산-바위절벽",
+    "price": 380,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b44",
+    "name": "콩새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/콩새.png",
+    "hobby_level": 6,
+    "location": "온천산-화산 호수",
+    "price": 120,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b45",
+    "name": "푸른박새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/푸른박새.png",
+    "hobby_level": 7,
+    "location": "꽃밭-풍차꽃밭",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b46",
+    "name": "잠부과일비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/잠부과일비둘기.png",
+    "hobby_level": 7,
+    "location": "도시 근교",
+    "price": 220,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b47",
+    "name": "제비갈매기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/제비갈매기.png",
+    "hobby_level": 7,
+    "location": "동해 해변",
+    "price": 280,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b48",
+    "name": "히아신스금강앵무",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/히아신스금강앵무.png",
+    "hobby_level": 7,
+    "location": "새들의 복귀 사건",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b49",
+    "name": "황조롱이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/황조롱이.png",
+    "hobby_level": 7,
+    "location": "숲-순록탑",
+    "price": 380,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b50",
+    "name": "분홍비둘기",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/분홍비둘기.png",
+    "hobby_level": 8,
+    "location": "꽃밭-고래산",
+    "price": 220,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b51",
+    "name": "동부파랑새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/동부파랑새.png",
+    "hobby_level": 8,
+    "location": "도시 근교",
+    "price": 240,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b52",
+    "name": "홍방울새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/홍방울새.png",
+    "hobby_level": 8,
+    "location": "숲-영혼의 참나무 숲",
+    "price": 180,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b53",
+    "name": "매",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/매.png",
+    "hobby_level": 8,
+    "location": "온천산-온천",
+    "price": 520,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b54",
+    "name": "아메리카홍학",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/아메리카홍학.png",
+    "hobby_level": 9,
+    "location": "꽃밭-보라빛 해변",
+    "price": 440,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b55",
+    "name": "극락풍금조",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/극락풍금조.png",
+    "hobby_level": 9,
+    "location": "도시 근교",
+    "price": 240,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b56",
+    "name": "황제가마우지",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/황제가마우지.png",
+    "hobby_level": 9,
+    "location": "동해 잔잔한 바다",
+    "price": 360,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b57",
+    "name": "녹공작",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/녹공작.png",
+    "hobby_level": 9,
+    "location": "새들의 복귀 사건",
+    "price": 300,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b58",
+    "name": "흰머리오리",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/흰머리오리.png",
+    "hobby_level": 9,
+    "location": "온천산 호수",
+    "price": 360,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b59",
+    "name": "수리부엉이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/수리부엉이.png",
+    "hobby_level": 10,
+    "location": "숲-순록탑",
+    "price": 520,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b60",
+    "name": "비둘기조롱이",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/비둘기조롱이.png",
+    "hobby_level": 10,
+    "location": "온천산-유적",
+    "price": 520,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "sunny",
+      "rain",
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b61",
+    "name": "파랑딱새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/파랑딱새.png",
+    "hobby_level": 10,
+    "location": "숲-점핑 플랫폼",
+    "price": 240,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rainbow"
+    ]
+  },
+  {
+    "id": "b62",
+    "name": "아조레스멋쟁이새",
+    "type": "bird",
+    "image_url": "/src/data/bird_images/아조레스멋쟁이새.png",
+    "hobby_level": 10,
+    "location": "어촌-등대",
+    "price": 240,
+    "time_slots": [
+      "06-12",
+      "12-18",
+      "18-00",
+      "00-06"
+    ],
+    "weathers": [
+      "rainbow"
+    ]
+  }
+]
