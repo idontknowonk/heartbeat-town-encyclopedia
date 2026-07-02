@@ -434,7 +434,7 @@ export default function App() {
               </select>
             </div>
             <div className="filter-select-wrapper">
-              <img src="/src/data/취미_nobg.png" className="filter-icon icon-money" alt="hobby" />
+              <img src="${import.meta.env.BASE_URL}images/취미_nobg.png" className="filter-icon icon-money" alt="hobby" />
               <select
                 className="filter-select"
                 value={levelFilter}
@@ -513,7 +513,7 @@ export default function App() {
                   }}
                 >
                   <div className="item-image-wrapper">
-                    <img src={item.image_url} alt={item.name} loading="lazy" referrerPolicy="no-referrer" style={{ transform: item.type === 'fish' ? 'scale(1.15)' : 'scale(1)' }} />
+                    <img src={`${import.meta.env.BASE_URL}${item.image_url}`} alt={item.name} loading="lazy" referrerPolicy="no-referrer" style={{ transform: item.type === 'fish' ? 'scale(1.15)' : 'scale(1)' }} />
                   </div>
                   <div className="item-info">
                     <div className="item-top-row">
@@ -573,7 +573,7 @@ export default function App() {
               <button className="modal-close" onClick={() => window.history.back()}>✕</button>
 
               <div className="modal-image">
-                <img src={selectedItem.image_url} alt={selectedItem.name} referrerPolicy="no-referrer" style={{ transform: selectedItem.type === 'fish' ? 'scale(1.15)' : 'scale(1)' }} />
+                <img src={`${import.meta.env.BASE_URL}${selectedItem.image_url}`} alt={selectedItem.name} referrerPolicy="no-referrer" style={{ transform: selectedItem.type === 'fish' ? 'scale(1.15)' : 'scale(1)' }} />
               </div>
 
               <h2 className="modal-name">{selectedItem.name}</h2>
@@ -588,7 +588,7 @@ export default function App() {
                 <div className="modal-stat">
                   <div className="modal-stat-label">가격</div>
                   <div className="modal-stat-value" style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '4px'}}>
-                    <img src="/src/data/돈_nobg.png" className="icon-money" alt="money" /> {selectedItem.price ? selectedItem.price : '-'}
+                    <img src="${import.meta.env.BASE_URL}images/돈_nobg.png" className="icon-money" alt="money" /> {selectedItem.price ? selectedItem.price : '-'}
                   </div>
                 </div>
                 <div className="modal-stat">
@@ -601,7 +601,7 @@ export default function App() {
                 <div className="modal-stat">
                   <div className="modal-stat-label">레벨</div>
                   <div className="modal-stat-value" style={{display: 'flex', justifyContent: 'center', gap: '4px', alignItems: 'center'}}>
-                    <img src="/src/data/취미_nobg.png" className="icon-money" alt="hobby" />
+                    <img src="${import.meta.env.BASE_URL}images/취미_nobg.png" className="icon-money" alt="hobby" />
                     {selectedItem.hobby_level}
                   </div>
                 </div>
